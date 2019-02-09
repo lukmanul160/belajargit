@@ -1,5 +1,5 @@
 <?php
 
         echo "login";   
-        echi "lo00";
+        echo "lo00";
 ?>  
